@@ -11,4 +11,4 @@ SetQuaternion(string key, Quaternion q)
 GetQuaternion(string key)
 </pre>
 <p>
-These methods can be used in exactly the same way as the standard Unity PlayerPrefs system. Simply call <code>Comp3PlayerPrefs.SetBool("MyBool", true)</code>; for example and then to retrieve call <code>Comp3PlayerPrefs.GetBool("MyBool")</code>;
+These methods can be used in exactly the same way as the standard Unity PlayerPrefs system. Simply call <code>Comp3PlayerPrefs.SetBool("MyBool", true);</code> for example and then to retrieve call <code>Comp3PlayerPrefs.GetBool("MyBool");</code>
