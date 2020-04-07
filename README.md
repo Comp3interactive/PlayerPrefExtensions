@@ -13,4 +13,4 @@ GetQuaternion(string key)
 <p>
 These methods can be used in exactly the same way as the standard Unity PlayerPrefs system. Simply call <code>Comp3PlayerPrefs.SetBool("MyBool", true);</code> for example and then to retrieve call <code>Comp3PlayerPrefs.GetBool("MyBool");</code>
 <p>
-<code>PlayerPrefs.HasKey(string key);</code> and <code>PlayerPrefs.DeleteAll();</code> will include these new PlayerPrefs too!
+The standard <code>PlayerPrefs.HasKey(string key);</code> and <code>PlayerPrefs.DeleteAll();</code> methods will include these new PlayerPrefs too!
