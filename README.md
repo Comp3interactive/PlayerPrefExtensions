@@ -1,7 +1,7 @@
 <h1>PlayerPrefs Extensions</h1>
 <b>New Methods:<br></b>
 <pre>
-SetBool(string key, bool val)<br>
+SetBool(string key, bool val)
 GetBool(string key)</br>
 SetVector3(string key, Vector3 v3)</br>
 GetVector3(string key)</br>
