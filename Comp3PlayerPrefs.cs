@@ -52,7 +52,7 @@ public static class Comp3PlayerPrefs
     {
         PlayerPrefs.SetString(key, DelimitFloats(new float[] { q.x, q.y, q.z, q.w}));
     }
-    public static Quaternion SetQuaternion(string key)
+    public static Quaternion GetQuaternion(string key)
     {
         Quaternion q = new Quaternion(0, 0, 0, 0);
 
