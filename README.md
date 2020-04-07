@@ -1,4 +1,7 @@
 <h1>PlayerPrefs Extensions</h1>
+<p>
+Simply put this script anywhere inside your project's asset folder and call the static methods from wherever you require.
+<p>
 <b>New Methods:</b>
 <pre>
 SetBool(string key, bool val)
