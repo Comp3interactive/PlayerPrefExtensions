@@ -1,5 +1,5 @@
 <h1>PlayerPrefs Extensions</h1>
-<b>New Methods:<br></b>
+<b>New Methods:</b>
 <pre>
 SetBool(string key, bool val)
 GetBool(string key)
