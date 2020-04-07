@@ -1,5 +1,6 @@
 <h1>PlayerPrefs Extensions</h1>
 <b>New Methods:</b>
+<code>
 <ul>
   <li>SetBool(string key, bool val);</li>
   <li>GetBool(string key);</li>
@@ -10,3 +11,4 @@
   <li>SetQuaternion(string key, Quaternion q)</li>
   <li>GetQuaternion(string key)</li>
 </ul>
+</code>
